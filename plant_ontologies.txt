@@ -1,0 +1,15 @@
+List of onotlogies related to agricutlural sciences from OBOFoundry:
+
+- http://www.ontobee.org/ontology/AGRO
+- http://www.ontobee.org/ontology/ENVO
+- http://www.ontobee.org/ontology/FLOPO
+- http://www.ontobee.org/ontology/FOODON
+- http://www.ontobee.org/ontology/OGG-At
+- http://www.ontobee.org/ontology/ONS
+- http://www.ontobee.org/ontology/ONE
+- http://www.ontobee.org/ontology/PECO
+- http://www.ontobee.org/ontology/PO
+- http://www.ontobee.org/ontology/PPO
+- http://www.ontobee.org/ontology/PSO
+- http://www.ontobee.org/ontology/TO
+
